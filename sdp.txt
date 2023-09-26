@@ -1,0 +1,2 @@
+welocome to git bash
+this is my first file in git bash
